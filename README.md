@@ -6,9 +6,9 @@
 
 # Integrantes
 
-&bull; <a href="https://www.linkedin.com/in/allan-casado-6339a9177/">Allan Casado</a>
-&bull; <a href="https://www.linkedin.com/in/bianca-cassemiro/">Bianca Cassemiro</a>
-&bull; <a href="https://www.linkedin.com/in/moises-caze/">Moises Caze</a>
+&bull; <a href="https://www.linkedin.com/in/allan-casado-6339a9177/">Allan Casado</a> <break>
+&bull; <a href="https://www.linkedin.com/in/bianca-cassemiro/">Bianca Cassemiro</a> <break>
+&bull; <a href="https://www.linkedin.com/in/moises-caze/">Moises Caze</a> <break>
 &bull; <a href="https://www.linkedin.com/in/felipe-silberberg-111998230/">Felipe Silberberg</a>
 &bull; <a href="https://www.linkedin.com/in/gabriel-rocha-pinto-santos-113385231/">Gabriel Rocha</a>
 &bull; <a href="https://www.linkedin.com/in/lu%C3%ADsa-vit%C3%B3ria-leite-silva-681443230/">Luísa Leite</a>
