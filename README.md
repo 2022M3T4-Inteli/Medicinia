@@ -19,9 +19,8 @@
 
 ## 📝 Descrição
 
- A solução consiste em uma aplicação web, destinada a facilitar o processo de antecipação do recebimento das diárias. Para os hoteleiros, será possível definir um  montante, sendo que as diárias que formarem esse valor, ou o mais próximo possível, serão as antecipadas, podendo escolher entre três tipos de antecipação, cada uma com taxa diferente, sendo que quanto maior for a antecipação, maior será a taxa.
- Além disso, a plataforma também permite que a equipe da hurb tenha acesso à uma lista dos hotéis que mais pedem antecipação e respectivas suas informações, além do histórico e detalhes de antecipações passadas, permitindo um maior controle das quantias antecipadas e das adquiridas por meio das taxas.
- O usuário acessa a plataforma através de um login, que consiste em um email e senha, os quais serão definidos anteriormente pela Hurb.
+Os principais objetivos do parceiro de negócio consistem em fazer uma análise dos dados da paciente de câncer de mama, e a partir dessa análise conseguir receber uma resposta sobre a taxa do tempo de sobrevida, não só isso como também um direcionamento sobre o agendamento de consultas futuras levando em conta o status da paciente e os possíveis desdobramentos de seu tratamento.
+ 
 
 
 ## 📁 Estrutura de pastas
@@ -95,16 +94,7 @@ npm start
 
 Aqui estão as referências usadas no projeto:
 
-1. <https://www.w3schools.com/>
-2. <https://www.sqlite.org/index.html>
-3. <https://www.postman.com/>
-4. <https://nodejs.org/en/>
-5. <https://www.heroku.com/>
-6. <https://www.figma.com/>
-7. <https://trello.com/>
-8. <https://code.visualstudio.com/>
-9. <https://github.com/>
-10. <https://miro.com/>
-11. <https://app.funretrospectives.com/>
-12. <https://app.slack.com/>
-
+SERRANO, Layane; ROCHA, Lucas. Brasil tem quase 600 mil novos casos de câncer por ano, diz diretora da OMS. CNN Brasil, [S. l.], p. 1, 4 fev. 2022. Disponível em:
+https://www.cnnbrasil.com.br/saude/brasil-tem-quase-600-mil-novos-casos-de-canc
+er-por-ano-diz-diretora-da-oms/. Acesso em: 11 ago. 2022. KLUYVER , Thomas; MCKINNEY, Wes. Pandas: powerful Python data analysis toolkit. [S. l.], 23 jun. 2022. Disponível em: https://pandas.pydata.org/docs/. Acesso em: 12 ago. 2022.
+NUMPY COMMUNITY. NumPy User Guide. [S. l.], 22 jun. 2022. Disponível em: https://numpy.org/doc/1.23/. Acesso em: 12 ago. 2022
