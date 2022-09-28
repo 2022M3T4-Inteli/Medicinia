@@ -94,7 +94,6 @@ npm start
 
 Aqui estão as referências usadas no projeto:
 
-SERRANO, Layane; ROCHA, Lucas. Brasil tem quase 600 mil novos casos de câncer por ano, diz diretora da OMS. CNN Brasil, [S. l.], p. 1, 4 fev. 2022. Disponível em:
-https://www.cnnbrasil.com.br/saude/brasil-tem-quase-600-mil-novos-casos-de-canc
-er-por-ano-diz-diretora-da-oms/. Acesso em: 11 ago. 2022. KLUYVER , Thomas; MCKINNEY, Wes. Pandas: powerful Python data analysis toolkit. [S. l.], 23 jun. 2022. Disponível em: https://pandas.pydata.org/docs/. Acesso em: 12 ago. 2022.
-NUMPY COMMUNITY. NumPy User Guide. [S. l.], 22 jun. 2022. Disponível em: https://numpy.org/doc/1.23/. Acesso em: 12 ago. 2022
+1. SERRANO, Layane; ROCHA, Lucas. Brasil tem quase 600 mil novos casos de câncer por ano, diz diretora da OMS. CNN Brasil, [S. l.], p. 1, 4 fev. 2022. Disponível em: https://www.cnnbrasil.com.br/saude/brasil-tem-quase-600-mil-novos-casos-de-cancer-por-ano-diz-diretora-da-oms/. Acesso em: 11 ago. 2022.
+2. KLUYVER , Thomas; MCKINNEY, Wes. Pandas: powerful Python data analysis toolkit. [S. l.], 23 jun. 2022. Disponível em: https://pandas.pydata.org/docs/. Acesso em: 12 ago. 2022.
+3. NUMPY COMMUNITY. NumPy User Guide. [S. l.], 22 jun. 2022. Disponível em: https://numpy.org/doc/1.23/. Acesso em: 12 ago. 2022
