@@ -51,8 +51,8 @@ Todos os notebooks do projeto tem o resultado de execução das células visíve
 Para replicação (reexecução dos códigos), o botão Open in Colab disponível na página do arquivo neste repositório do Github.
 
 ```sh
- <a>Note que sem salvar uma cópia do notebook no seu Google Drive,</a>
- <a>não é possível salvar as alterações realizadas no arquivo.</a>
+ Note que sem salvar uma cópia do notebook no seu Google Drive,
+ não é possível salvar as alterações realizadas no arquivo.
 ```
 
 ## 🗃 Histórico de lançamentos
