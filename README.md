@@ -27,20 +27,13 @@ Os principais objetivos do parceiro de negócio consistem em fazer uma análise 
 
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T4_G1_V5_Web_application_document.pdf<br>
-  &emsp;| T4_G1_V5_Web_application_document.docx<br>
-|--> imagens<br>
-|--> src<br>
-  &emsp;|--> Backend<br>
-  &emsp;&emsp;|--> DataBase<br>
-  &emsp;|--> Frontend<br>
-  &emsp;&emsp;|--> public<br>
-  &emsp;&emsp;&emsp;|--> css<br>
-  &emsp;&emsp;&emsp;|--> html<br>
-  &emsp;&emsp;&emsp;|--> icons<br>
-  &emsp;&emsp;&emsp;|--> js<br>
-| readme.md<br>
-| license.txt
+  &emsp;| T4_G1_V5_documentacao_modelo_preditivo_document.pdf<br>
+  &emsp;| T4_G1_V5_documentacao_modelo_preditivo_.docx<br>
+|--> notebooks<br>
+|--> web/front-end<br>
+| Grupo Medicinia - Documentação Projeto Módulo 3- Versão 4.pdf<br>
+| readme.md
+
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
 
