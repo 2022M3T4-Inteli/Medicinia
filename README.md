@@ -50,20 +50,9 @@ Todos os notebooks do projeto tem o resultado de execução das células visíve
 
 Para replicação (reexecução dos códigos), o botão Open in Colab disponível na página do arquivo neste repositório do Github.
 
+```sh
 | Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
-
-```sh
-npm install
 ```
-
-Isso instalará todas as dependências definidas no arquivo <b>package.json</b> que são necessárias para rodar o projeto. Agora o projeto já está pronto para ser modificado. Caso ainda deseje iniciar a aplicação, digite o comando abaixo no terminal:
-
-```sh
-npm start
-```
-5. Agora você pode acessar a aplicação através do link http://localhost:1234/
-6. O servidor está online.
-
 
 ## 🗃 Histórico de lançamentos
 
