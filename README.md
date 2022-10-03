@@ -51,25 +51,26 @@ Todos os notebooks do projeto tem o resultado de execução das células visíve
 Para replicação (reexecução dos códigos), o botão Open in Colab disponível na página do arquivo neste repositório do Github.
 
 ```sh
- Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
+ <a>Note que sem salvar uma cópia do notebook no seu Google Drive,</a>
+ <a>não é possível salvar as alterações realizadas no arquivo.</a>
 ```
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0 - 22/04/2022
-    * Organização das pastas.
-* 2.0 - 13/05/2022
-    * Adição do front end do projeto.
-* 3.0 - 27/05/2022
-    * Criação das API's do projeto e início da integração.
-* 4.0 - 10/06/2022
-    * Integração do back end com o front end.
-* 5.0 - 23/06/2022
-    * Finalização da documentação do projeto, ajustes finais no front end e hospedamos o sistema no Heroku.
+* 1.0 - 14/08/2022
+    * Documentação.
+* 2.0 - 26/08/2022
+    * Limpeza e organização do banco de dados.
+* 3.0 - 09/10/2022
+    * Avalição dos modelos.
+* 4.0 - 23/10/2022
+    * Escolha dos modelos.
+* 5.0 - 
+
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M2T4/Projeto1">Hurb Antecipações</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.inteli.edu.br/?gclid=EAIaIQobChMIzcPeyJe_-AIVM0BIAB2QMA7yEAAYASAAEgLTpvD_BwE">Inteli, <a href="https://www.linkedin.com/in/felipe-silberberg-111998230/">Felipe Silberberg</a>, <a href="https://www.linkedin.com/in/gabrielcaetanonhoncanse/">Gabriel Caetano Nhoncanse</a>, <a href="https://www.linkedin.com/in/gabriel-rocha-pinto-santos-113385231/">Gabriel Rocha Pinto Santos</a>, <a href="https://www.linkedin.com/in/gabriela-barretto99/">Gabriela Barretto Dias</a>, <a href="https://www.linkedin.com/in/lu%C3%ADsa-vit%C3%B3ria-leite-silva-681443230/">Luísa Leite</a>, <a href="https://www.linkedin.com/in/renatosilvamachado/">Renato Silva Machado</a> </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI </a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.inteli.edu.br/?gclid=EAIaIQobChMIzcPeyJe_-AIVM0BIAB2QMA7yEAAYASAAEgLTpvD_BwE">Inteli, <a href="https://www.linkedin.com/in/allan-casado-6339a9177/">Allan Casado</a>, <a href="https://www.linkedin.com/in/bianca-cassemiro/">Bianca Cassemiro</a>, <a href="https://www.linkedin.com/in/moises-caze/">Moises Caze</a>, <a href="https://www.linkedin.com/in/felipe-silberberg-111998230/">Felipe Silberberg</a>, <a href="https://www.linkedin.com/in/gabriel-rocha-pinto-santos-113385231/">Gabriel Rocha</a>, <a href="https://www.linkedin.com/in/lu%C3%ADsa-vit%C3%B3ria-leite-silva-681443230/">Luísa Leite</a> </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
