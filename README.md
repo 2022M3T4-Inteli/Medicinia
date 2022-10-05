@@ -65,7 +65,8 @@ Para replicação (reexecução dos códigos), o botão Open in Colab disponíve
     * Avalição dos modelos.
 * 4.0 - 23/10/2022
     * Escolha dos modelos.
-* 5.0 - 
+* 5.0 - 06/10/2022
+    * Entrega final.
 
 
 ## 📋 Licença/License
@@ -79,3 +80,4 @@ Aqui estão as referências usadas no projeto:
 1. SERRANO, Layane; ROCHA, Lucas. Brasil tem quase 600 mil novos casos de câncer por ano, diz diretora da OMS. CNN Brasil, [S. l.], p. 1, 4 fev. 2022. Disponível em: https://www.cnnbrasil.com.br/saude/brasil-tem-quase-600-mil-novos-casos-de-cancer-por-ano-diz-diretora-da-oms/. Acesso em: 11 ago. 2022.
 2. KLUYVER , Thomas; MCKINNEY, Wes. Pandas: powerful Python data analysis toolkit. [S. l.], 23 jun. 2022. Disponível em: https://pandas.pydata.org/docs/. Acesso em: 12 ago. 2022.
 3. NUMPY COMMUNITY. NumPy User Guide. [S. l.], 22 jun. 2022. Disponível em: https://numpy.org/doc/1.23/. Acesso em: 12 ago. 2022
+4. PÁDUA, ANTONIO FRANCISCO LIMA DE OLIVEIRA; SOUSA, FABIANA ARAUJO. METODOLOGIA CRISP-DM: POTENCIALIDADES NA DESCOBERTA DO CONHECIMENTO EM DADOS EDUCACIONAIS. XVI congresso internacional de tecnologia na educação, [S. l.], p. 1, 19 set. 2018. Disponível em: http://www.pe.senac.br/congresso/anais/2018/pdf/poster/METODOLOGIA%20CRISP-DM%20POTENCIALIDADES%20NA%20DESCOBERTA%20DO%20CONHECIMENTO%20EM%20DADOS%20EDUCACIONAIS.pdf. Acesso em: 5 out. 2022.
