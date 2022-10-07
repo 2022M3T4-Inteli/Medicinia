@@ -11,6 +11,10 @@ body{
     width: 100px;
     margin-left: 20px;
     margin-top: 5px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -webkit-user-drag: none;
   }
   
 nav {
@@ -20,9 +24,13 @@ nav {
     background-color: #fdb6cc;
   }
 
+nav a {
+  -webkit-user-drag: none;
+}
   .mainBox {
     display: flex;
-    flex-direction: row;
+    justify-content: center;
+    align-items: center;
   }
   #title{
     margin-top: 100px;
@@ -47,6 +55,11 @@ nav {
     height: 30px;
     width: 220px;
     margin-left: 20px;
+    padding-left: 8px;
+  }
+
+  #input:focus {
+    outline: none;
   }
 
   .container{
@@ -67,4 +80,5 @@ nav {
     position:fixed;
     bottom: 70px;
     right: 70px;
+    cursor: pointer;
   }
